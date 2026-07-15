@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Andrew
 
-🏫 Ph.D. student in the [College of Earth, Ocean, and Atmospheric Sciences](https://ceoas.oregonstate.edu/) at Oregon State University<br/>
+🏫 Ph.D. candidate in the [College of Earth, Ocean, and Atmospheric Sciences](https://ceoas.oregonstate.edu/) at Oregon State University<br/>
 🌎 Using big Earth data to better understand our oceans, atmosphere, and climate<br/>
 💻 Building open source science with open source software<br/>
 🌐 Self-taught full stack developer leveraging web development to share my science and software<br/>
